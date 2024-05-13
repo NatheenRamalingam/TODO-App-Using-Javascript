@@ -1,0 +1,16 @@
+.container{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid cyan;
+    border-radius: 15px;
+    box-shadow: 5px 5px 8px cyan;
+}
+.taskheading{
+    margin-left: 5px;
+    border-left: 5px solid dodgerblue;
+}
+
+#msg{
+    color: red;
+    margin: 2px;
+}
